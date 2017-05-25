@@ -1,0 +1,15 @@
+{
+  "name": "jQuery Node Dragger",
+  "version": "1.0.0",
+  "description": "simple utility for improved jquery draggin for Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "drag"
+  ],
+  "author": "Alexander Leon",
+  "license": "ISC"
+}
