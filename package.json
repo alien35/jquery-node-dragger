@@ -1,7 +1,7 @@
 {
-  "name": "jQuery Node Dragger",
+  "name": "jquery-node-dragger",
   "version": "1.0.0",
-  "description": "simple utility for improved jquery draggin for Node.js projects",
+  "description": "improved jquery dragging for Node.js projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
