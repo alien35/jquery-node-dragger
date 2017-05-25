@@ -1,6 +1,6 @@
 {
   "name": "jquery-node-dragger",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "improved jquery dragging for Node.js projects",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "drag"
   ],
   "author": "Alexander Leon",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alien35/jquery-node-dragger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alien35/jquery-node-dragger/issues"
+  },
+  "homepage": "https://github.com/alien35/jquery-node-dragger#readme"
 }
